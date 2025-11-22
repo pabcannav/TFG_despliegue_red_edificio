@@ -6,7 +6,7 @@ abarca desde el analisis de requisitos, pasando por el diseño lógico y físico
 red, hasta la preparacion para su instalación en el entorno real.
 
 ## Estructura del repositorio
-- ** TFG_Despliegue_Red_Edificio_pabcannav.pdf** : Documento técnico explicativo del proyecto en su totalidad.
-- ** presentacionTFG_pabcannav.pdf ** : Transparencias que fueron utilizadas en la defensa del proyecto frente al tribunal.
-- ** redLogicaConRedundancias-NoFuncional-SoloReferenciaVisual.pkt ** : Archivo de Cisco Packet Tracert que como su nombre indica sirve como referencia visual de la red con redundancias.
-- ** redLogicaSimplificada-Funcional.pkt ** : Archivo de Cisco Packet Tracert que como su nombre indica proporciona una simulación de la red logica simplificada de manera funcional.
+- **TFG_Despliegue_Red_Edificio_pabcannav.pdf** : Documento técnico explicativo del proyecto en su totalidad.
+- **presentacionTFG_pabcannav.pdf** : Transparencias que fueron utilizadas en la defensa del proyecto frente al tribunal.
+- **redLogicaConRedundancias-NoFuncional-SoloReferenciaVisual.pkt** : Archivo de Cisco Packet Tracert que como su nombre indica sirve como referencia visual de la red con redundancias.
+- **redLogicaSimplificada-Funcional.pkt** : Archivo de Cisco Packet Tracert que como su nombre indica proporciona una simulación de la red logica simplificada de manera funcional.
